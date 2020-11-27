@@ -41,7 +41,7 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>*</members>
+        <members>Recruiting_App</members>
         <name>CustomApplication</name>
     </types>
     <version>50.0</version>
