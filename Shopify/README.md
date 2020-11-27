@@ -1,0 +1,18 @@
+{
+	"Contact_List":{
+		"Contact":[{
+			"Legacy_Applicant_Number":"12345",
+			"First_Name":"Vivek",
+			"LastName":"Salve",
+			"Email":"vivek.salve@gmail.com",
+			"Phone":"5713452341"
+		}]
+	},
+	"Job_Application_List":{
+		"Job_Application":[{
+			"Legacy_Job_Application_Number":"12346",
+			"Applicant":"12345",
+			"Job":"a014x000003nnpnAAA"
+		}]
+	}
+}
